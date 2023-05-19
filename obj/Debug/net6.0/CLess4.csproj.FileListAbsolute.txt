@@ -1,0 +1,15 @@
+G:\Мой диск\Разработка\Git\C#\CLess4\bin\Debug\net6.0\CLess4.exe
+G:\Мой диск\Разработка\Git\C#\CLess4\bin\Debug\net6.0\CLess4.deps.json
+G:\Мой диск\Разработка\Git\C#\CLess4\bin\Debug\net6.0\CLess4.runtimeconfig.json
+G:\Мой диск\Разработка\Git\C#\CLess4\bin\Debug\net6.0\CLess4.dll
+G:\Мой диск\Разработка\Git\C#\CLess4\bin\Debug\net6.0\CLess4.pdb
+G:\Мой диск\Разработка\Git\C#\CLess4\obj\Debug\net6.0\CLess4.csproj.AssemblyReference.cache
+G:\Мой диск\Разработка\Git\C#\CLess4\obj\Debug\net6.0\CLess4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\Разработка\Git\C#\CLess4\obj\Debug\net6.0\CLess4.AssemblyInfoInputs.cache
+G:\Мой диск\Разработка\Git\C#\CLess4\obj\Debug\net6.0\CLess4.AssemblyInfo.cs
+G:\Мой диск\Разработка\Git\C#\CLess4\obj\Debug\net6.0\CLess4.csproj.CoreCompileInputs.cache
+G:\Мой диск\Разработка\Git\C#\CLess4\obj\Debug\net6.0\CLess4.dll
+G:\Мой диск\Разработка\Git\C#\CLess4\obj\Debug\net6.0\refint\CLess4.dll
+G:\Мой диск\Разработка\Git\C#\CLess4\obj\Debug\net6.0\CLess4.pdb
+G:\Мой диск\Разработка\Git\C#\CLess4\obj\Debug\net6.0\CLess4.genruntimeconfig.cache
+G:\Мой диск\Разработка\Git\C#\CLess4\obj\Debug\net6.0\ref\CLess4.dll
