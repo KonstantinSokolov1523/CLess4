@@ -29,15 +29,18 @@ Console.WriteLine(NumExpon(Num, Expo));
 9012 -> 12*/
 
 Console.Write("Введите число: ");
-int inp = Convert.ToInt32(Console.ReadLine());
-string conv = Convert.ToString(inp);
-int a = 0;
-    for(int i = 0; i < conv.Length; i++)
-    {
-        Console.WriteLine(conv[i]);
-        a = a + Convert.ToInt32(conv[i]);
-    }
-Console.Write(a);
+int N = Convert.ToInt32(Console.ReadLine());
+int SumInN(int N)
+{
+sum = 0;
+while(N > 0)
+{
+sum = += N%10;
+N = N/10;
+}
+return sum;
+}
+Console.WriteLine(SumInN(N));
 
 /*Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 
