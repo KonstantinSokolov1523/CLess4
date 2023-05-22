@@ -27,24 +27,36 @@ Console.WriteLine(NumExpon(Num, Expo));
 82 -> 10
 
 9012 -> 12*/
-
+/*
 Console.Write("Введите число: ");
 int N = Convert.ToInt32(Console.ReadLine());
 int SumInN(int N)
 {
-sum = 0;
-
-for(int i = N; i > 0; N /= 10)
+int sum = 0;
+while(N > 0)
 {
 sum += N%10;
+N /= 10;
 }
 return sum;
 }
 Console.WriteLine(SumInN(N));
-
+*/
 /*Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 
 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 
 6, 1, 33 -> [6, 1, 33]*/
 
+/*
+int[] array = new int[8];
+Random rand = new Random();
+for (int ellem = 0; ellem < array.Length; ellem++)
+{
+    array[ellem] = rand.Next(0,100);
+}
+for (int pos = 0; pos < array.Length; pos++)
+{
+    Console.Write(array[pos] + ", ");
+}
+*/
