@@ -33,10 +33,10 @@ int N = Convert.ToInt32(Console.ReadLine());
 int SumInN(int N)
 {
 sum = 0;
-while(N > 0)
+
+for(int i = N; i > 0; N /= 10)
 {
-sum = += N%10;
-N = N/10;
+sum += N%10;
 }
 return sum;
 }
